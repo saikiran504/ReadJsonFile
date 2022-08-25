@@ -1,0 +1,13 @@
+{
+    "ApplicationUnderTest":{
+        "QA":"https://QA.ApplicationUnderTest.com",
+        "Stage":"https://Stage.ApplicationUnderTest.com",
+        "prod":"https://prod.ApplicationUnderTest.com"
+    },
+    "ConnectionStrings":{
+        "SqlDb":"Sql Db Connection String",
+        "OracleDb":"Oracle Db Connection String",
+        "MangoDb":"Mango Db Connection String"
+    }
+
+}
